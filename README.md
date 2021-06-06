@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darren Cronover
-- 👀 I’m interested in Cooking, Programming, and Video Games
+- 👀 I’m interested in Web Programming, and Video Games
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on Game Development
 
